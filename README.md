@@ -6,34 +6,30 @@ I'm **Habib Abdillah**, a developer from Indonesia who loves building things for
   <img src="https://komarev.com/ghpvc/?username=muhabibabd&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
-## 🛠️ Tech Stack
+## 🛠️ Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,laravel,dotnet,dart,flutter,git,github,vscode&perline=6" alt="My Skills" />
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhabibabd&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&locale=en" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhabibabd&layout=compact&card_width=320&langs_count=5&theme=dracula&locale=en" height="150" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=muhabibabd&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&locale=en" height="150" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhabibabd&layout=compact&card_width=320&langs_count=5&theme=dracula&locale=en" height="150" alt="Top languages" />
 </p>
 
-## 📈 GitHub Activity
+## 🔥 Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhabibabd&theme=react&radius=16" height="300" alt="GitHub activity graph" />
+  <img src="https://streak-stats.demolab.com?user=muhabibabd&theme=dracula&hide_border=true" alt="GitHub streak" />
 </p>
 
 ## 🌐 Connect with Me
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/mhabibabdillah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="linkedin logo" />
   </a>
